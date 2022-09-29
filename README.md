@@ -1,1 +1,2 @@
 # cc-scss-demonstration
+This project is to demonstrate my ability to apply a thorough understanding of how SCSS, Grid, and Flexbox can interact in a productive way. This project was assigned with no html data, but merely the requirements to use scss mixin, scss variable and override it in the code, and using Grid to create two columns with the first being twice the width of the second while utilizing two paragraph tags. 
